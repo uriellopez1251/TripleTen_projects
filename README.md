@@ -1,2 +1,2 @@
 # TripleTen_projects
-Projects I’ve done in bootcamp 
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
