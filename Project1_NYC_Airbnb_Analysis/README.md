@@ -9,7 +9,7 @@ This project analyzes Airbnb listings in **New York City** to understand:
 - SQL (data extraction & cleaning)  
 - Google Sheets (analysis & visualization)  
 
-**🔍 Key Insights:
+**🔍 Key Insights:**
 - Identified factors influencing Airbnb prices
 - Mapped distribution of Airbnb listings by borough
 - Analyzed trends in occupancy and seasonal demand
