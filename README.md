@@ -1,10 +1,25 @@
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# 📊 TripleTen Data Analytics Projects  
 
+Welcome to my **TripleTen Data Analytics Portfolio**! This repository contains projects completed during my bootcamp at **TripleTen**, covering **business analytics, data visualization, SQL, and storytelling with data.**  
 
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+## **📂 Projects Overview**  
+
+| Project | Title | Description |
+|---------|---------------------------|----------------------------------|
+| **1** | [NYC Airbnb Analysis](Project1_NYC_Airbnb_Analysis/) | Analyzed Airbnb listings in NYC to determine pricing trends, popular boroughs, and seasonal variations using SQL and Google Sheets. |
+| **2** | [Business Analytics: Event Logs to Metrics](Project2_Business_Analytics/) | Processed business event logs to extract key business metrics and improve decision-making using SQL and data formulas. |
+| **3** | [Data Visualization with Tableau](Project3_Data_Visualization/) | Created **Tableau dashboards** to visualize sales performance and business profitability. |
+| **4** | [Storytelling with Data](Project4_Storytelling_with_Data/) | Built **data-driven storytelling dashboards** to present insights on customer returns and business performance using Tableau. |
+
+---
+
+### **📌 Skills Demonstrated**
+✔️ **Google Sheets & Advanced Formulas**  
+✔️ **SQL for Data Querying & Cleaning**  
+✔️ **Business Intelligence Metrics (Event Logs)**  
+✔️ **Data Visualization (Tableau Dashboards & Reports)**  
+✔️ **Storytelling with Data & Business Decision-Making**  
+
+💡 **Each project has its own folder** where you’ll find datasets, SQL queries, Tableau dashboards, and reports.
+
+---
