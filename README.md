@@ -10,6 +10,7 @@ Welcome to my **TripleTen Data Analytics Portfolio**! This repository contains p
 | **2** | [Business Analytics: Event Logs to Metrics](Project2_Business_Analytics/) | Processed business event logs to extract key business metrics and improve decision-making using SQL and data formulas. |
 | **3** | [Data Visualization with Tableau](Project3_Data_Visualization/) | Created **Tableau dashboards** to visualize sales performance and business profitability. |
 | **4** | [Storytelling with Data](Project4_Storytelling_with_Data/) | Built **data-driven storytelling dashboards** to present insights on customer returns and business performance using Tableau. |
+| **5** | [Sales Analysis Dashboard](Project5_Sales_Analysis) *(📊 NEW)* | Analyzed restaurant sales data to identify **top-performing locations, cuisines, and revenue trends** over time using **Tableau**. |
 
 ---
 
